@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# PyInstaller output
+dist/
+build/
+*.spec
+*.exe
+
+# Do NOT track image files stuck in the project directory
+*.jpg
+*.jpeg
+*.png
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store

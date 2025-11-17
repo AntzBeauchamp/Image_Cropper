@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Image cropper/build"
+		},
+		{
+			"path": "../../../../../Image cropper/dist"
+		},
+		{
+			"path": "../../../../../Image cropper/.venv"
+		}
+	],
+	"settings": {}
+}
