@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -22,7 +22,7 @@ build/
 *.spec
 *.exe
 
-# Do NOT track image files stuck in the project directory
+# Do NOT track accidental image files dropped into project
 *.jpg
 *.jpeg
 *.png
@@ -33,3 +33,5 @@ Desktop.ini
 .DS_Store
 dist/
 build/
+.venv/
+__pycache__/
